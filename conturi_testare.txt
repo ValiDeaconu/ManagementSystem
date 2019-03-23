@@ -1,0 +1,24 @@
+FUNCTIE: Receptioner
+USER: receptioner
+PASS: receptioner
+
+FUNCTIE: Asistent Medical
+USER: asistent
+PASS: asistent
+
+FUNCTIE: Medic
+USER: medic
+PASS: medic
+
+FUNCTIE: Medic (+ Admin 2)
+USER: admin
+PASS: admin
+
+FUNCTIE: Contabil
+USER: contabil
+PASS: contabil
+
+FUNCTIE: Inspector resurse umane
+USER: inspectorhr
+PASS: inspectorhr
+
